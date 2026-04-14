@@ -1,1 +1,2 @@
-# Face-recognition-Using-Py
+# Face-Authentication-Application
+Smart Attendence Sysytem
